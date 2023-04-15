@@ -1,2 +1,7 @@
 # TP2DPBO2023
-TP2DPBO2023
+
+## Desain
+
+## ALUR
+
+## DOKUMENTASI 
